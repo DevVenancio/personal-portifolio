@@ -185,7 +185,7 @@ function App() {
             Sobre Mim
           </h2>
           <div className='flex flex-row items-center justify-center'>
-            <img src="./src/assets/profile-pic.jpg" alt="" className='size-32 rounded-full m-2 mr-4' />
+            <img src="https://lh3.googleusercontent.com/d/1AJ4p5XNGieh3pJHkEEuYkDHg1YEV62iG" alt="" className='size-32 rounded-full m-2 mr-4' />
             <p>Olá, me chamo <mark className='bg-transparent text-[#A337D6]'>João Pedro</mark> e eu sou um desenvolvedor focado em Back-end, porém, tenho uma paixão por estudar outras tecnologias e se desafiar com novos projetos, fugindo da minha zona de conforto e me sintonizando com novas tendências e inovações do mercado.</p>
           </div>
           <p>
