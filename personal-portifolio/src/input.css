@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #F2F2F2;
+  font-family: 'JetBrains Mono';
+  background-color: #030303;
+}
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
