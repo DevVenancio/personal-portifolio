@@ -6,7 +6,7 @@ interface ProjectTagRootProps {
 
 export function ProjectTagRoot({ children }: ProjectTagRootProps){
   return(
-    <div className='flex flex-row my-1'>
+    <div className='flex flex-row *:m-2 *:size-6'>
       {children}
     </div>
   )
